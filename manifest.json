@@ -1,0 +1,25 @@
+{
+  "short_name": "Sara-chan",
+  "name": "Sara-chan, the chatbot",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AM-JKLWxftsS67kBXNscUdJBmK3mAxESmBOMg83Hwja4V5WQBf-cQBxBDgdUKygU3Q0TolQdwE0kMl5O1LZmFnWe1o__Ven62qBw48TjbCUVlNDv5y_xuf_INTgjR__FkwxJLvrQfcXK3WGjwXuUmTV9Tq0=s192-no?authuser=3",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AM-JKLVufyl1Y_Qwdd77_hL1jPrJeOfsuX-NNxTiggSea-oGN27lG6x0Ue6av8Hjk8u_D6yel4_yAdX_SscyFyw4UXdVPi8llzKT-k3xvr0dPwQgEaZWGxbTz2o7eCCxJyHv3KyahfJlKBJitSnpvF4ailA=s512-no?authuser=3",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
